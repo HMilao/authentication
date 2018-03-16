@@ -1,0 +1,17 @@
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\AuthenticationAPI.WS.dll.config
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\AuthenticationAPI.WS.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\AuthenticationAPI.WS.pdb
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\Newtonsoft.Json.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Net.Http.Formatting.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Web.Http.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Web.Http.WebHost.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\Newtonsoft.Json.xml
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Net.Http.Formatting.xml
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Web.Http.xml
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\bin\System.Web.Http.WebHost.xml
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\obj\Debug\AuthenticationAPI.WS.csprojResolveAssemblyReference.cache
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\obj\Debug\AuthenticationAPI.WS.csproj.CoreCompileInputs.cache
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\obj\Debug\AuthenticationAPI.WS.dll
+C:\Projects\AuthenticationAPI\AuthenticationAPI\AuthenticationAPI.WS\obj\Debug\AuthenticationAPI.WS.pdb
